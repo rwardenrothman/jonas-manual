@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Jonas Care Guide'
+project = html_title = 'Jonas Care Guide'
 author = 'Rob & Craig'
 
 # -- General configuration ---------------------------------------------------
@@ -44,5 +44,9 @@ myst_url_schemes = {
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'sphinx_rtd_theme'
+# html_theme = 'sphinx_rtd_theme'
+html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']
+html_theme_options = {
+    'body_max_width': 'none'
+}

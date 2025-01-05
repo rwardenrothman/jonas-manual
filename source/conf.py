@@ -14,6 +14,7 @@ author = 'Rob & Craig'
 
 extensions = [
     'sphinx.ext.napoleon',
+    'sphinx.ext.githubpages',
     'myst_parser',
     'sphinx.ext.autosectionlabel',
 ]

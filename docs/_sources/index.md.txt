@@ -9,4 +9,6 @@ caption: Contents:
 schedules
 food
 locations
+contacts
+rules
 ```

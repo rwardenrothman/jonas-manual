@@ -23,8 +23,22 @@ source_suffix = ['.rst', '.md']
 
 templates_path = ['_templates']
 exclude_patterns = []
-autosectionlabel_maxdepth = 2
+autosectionlabel_maxdepth = 3
 autosectionlabel_prefix_document = True
+
+myst_url_schemes = {
+    "http": None,
+    "https": None,
+    "tel": {
+        "url": "tel:{{path}}",
+        "title": "{{path}}",
+    },
+    "mailto": {
+        "url": "mailto:{{path}}",
+        "title": "{{path}}",
+    },
+}
+
 
 
 # -- Options for HTML output -------------------------------------------------

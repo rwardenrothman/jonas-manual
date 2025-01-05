@@ -2,32 +2,32 @@
 
 ## Breakfast
 Some of the options are:
-* Fruit bar
-* Waffelz
-* Plain yogurt with honey or fruit
-* Apple w/ nut butter
-* Fruit (blackberries, bananas, mangoes)
-* Veggies (bell pepper, cucumber)
-* Challah w/ butter
-* Matzo w/ butter/jam/nut butter
-* Corn muffins (freezer, wrap in a paper towel and microwave for 1 min)
-* Scrambled Eggs
+* Fruit bar ([Pantry](locations:pantry))
+* Waffelz ([Pantry](locations:pantry))
+* Plain yogurt with honey or fruit (Fridge/[Pantry](locations:pantry))
+* Apple w/ nut butter (Fridge/[Pantry](locations:pantry))
+* Fruit (blackberries, bananas, mangoes) (Fridge)
+* Veggies (bell pepper, cucumber) (Fridge)
+* Challah w/ butter (Counter/Fridge)
+* Matzo w/ butter/jam/nut butter  ([Pantry](locations:pantry)/Fridge)
+* Corn muffins (freezer, wrap in a paper towel and microwave for 1 min) ([Freezer](locations:freezer))
+* Scrambled Eggs (Fridge)
 * Bagel w/ cream cheese
 
 ## Snacks
 Jonas gets 2 snacks per day on home days, we try not to give him the same thing twice per day. Some of the options are:
-* Fruit bar
-* Waffelz
-* Plain yogurt with honey or fruit
-* Apple w/ nut butter
-* Other Fruits (blackberries, bananas, mangoes)
-* Veggies (bell pepper, cucumber)
-* Challah w/ butter
-* Matzo w/ butter/jam
-* Animal crackers
-* Yogurt puffs
-* Peanut butter puffs
-* Chips (if an Eagles game is on)
+* Fruit bar ([Pantry](locations:pantry))
+* Waffelz ([Pantry](locations:pantry))
+* Plain yogurt with honey or fruit (Fridge/[Pantry](locations:pantry))
+* Apple w/ nut butter (Fridge/[Pantry](locations:pantry))
+* Other Fruits (blackberries, bananas, mangoes) (Fridge)
+* Veggies (bell pepper, cucumber) (Fridge)
+* Challah w/ butter (Counter/Fridge)
+* Matzo w/ butter/jam (Fridge/[Pantry](locations:pantry))
+* Animal crackers (Counter)
+* Yogurt puffs ([Dining Room](locations:puffs))
+* Peanut butter puffs ([Dining Room](locations:puffs))
+* Chips (if an Eagles game is on) (Entryway)
 * Gelt (some in fridge, some in blue bag in living room)
 
 ## Lunch/Dinners
@@ -47,7 +47,7 @@ You can also order out wherever you want (we've yet to find a restaurant where J
 | Tatte            | Sandwiches, Pastries      | Lots of things                  | https://tattebakery.com/boston/                     | (617) 505-6363 |
 | Shake Shack      | Burgers                   | Shackburger<br/>Chocolate Shake | https://shakeshack.com/location/chestnut-hill-ma#/  | (617) 651-3406 |
 
-He always wants mac & cheese from restaurants, but never actually eats it. Redirect!
+He always wants mac & cheese from restaurants, but never actually eats it. Don't tell him it's an option.
 
 ## Desserts
 * 1 or 2 cookies

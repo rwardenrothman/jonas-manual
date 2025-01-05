@@ -48,3 +48,8 @@ You can also order out wherever you want (we've yet to find a restaurant where J
 | Shake Shack      | Burgers                   | Shackburger<br/>Chocolate Shake | https://shakeshack.com/location/chestnut-hill-ma#/  | (617) 651-3406 |
 
 He always wants mac & cheese from restaurants, but never actually eats it. Redirect!
+
+## Desserts
+* 1 or 2 cookies
+* 1 piece of candy (from the bag in the pantry)
+* Fruit

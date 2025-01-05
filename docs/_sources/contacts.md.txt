@@ -16,8 +16,8 @@ Phone: <tel:617-232-2915>
 62 Harvard Street<br>
 Brookline, MA 02445
 
-Directors: Teresa Greenberg
-e: <mailto:tgreenberg@earlyrisersbrookline.com>
+Directors: Teresa Greenberg<br/>
+e: <mailto:tgreenberg@earlyrisersbrookline.com><br/>
 p: <tel:617-396-8852>
 
 
